@@ -37,5 +37,5 @@ In contrast, Electronics (2,668 returns) and Home & Office (4,108 returns) recor
 Greater Accra reported the highest return rate, accounting for 31.1% of total returns, followed by Ashanti (27%) and Western (20.3%).
 These trends suggest that urban centers may face more returns due to higher order volumes or flexible return policies.
 
-![image](https://github.com/user-attachments/assets/4acd4fa3-a5f7-4175-b4fc-171ec8edbbf5)
+![image](https://github.com/user-attachments/assets/28fc39a1-f7be-43cc-8169-20861a2ae61a)
 
